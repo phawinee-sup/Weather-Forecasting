@@ -25,3 +25,5 @@
 n คือจำนวนการทำนายทั้งหมด
 y_pred คือค่าอุณหภูมิที่ทำนายได้
 y_true คือค่าอุณหภูมิจริง
+
+You can access via: https://www.kaggle.com/competitions/temperature-forecasting-for-localized-weather-stat/overview
